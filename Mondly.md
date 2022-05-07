@@ -4,10 +4,10 @@
 hello
 chatbot
 start
-core vocabulary
-family
-countries and languages
-romance
+core vocabulary : 136 words, 70 phrases
+family : 100 words, 50 phrases
+countries and languages: 132 words, 59 phrases
+romance: 126 words, 60 phrases
 seasons and weather
 preparing a trip
 travel
