@@ -4,10 +4,10 @@
 hello
 chatbot
 start
-core vocabulary : 136 words, 70 phrases
-family : 100 words, 50 phrases
-countries and languages: 132 words, 59 phrases
-romance: 126 words, 60 phrases
+core vocabulary
+family
+countries and languages
+romance
 seasons and weather
 preparing a trip
 travel
@@ -43,6 +43,25 @@ animals
 fruits & food
 colors & numbers
 parts of the body
+business communication
+calls and emails
+project management
+meetings
+Presentations & reports
+negotiations
+marketing
+human resources
+Finance & banking
+flight attendant
+restaurant staff
+hotel receptionist
+healthcare professionals
+shop assistant
+2022 August
+2022 July
+2022 June
+2021 April
+
 
 ## what I like
 tells you how many words and phrases are in a lesson, and the estimated time to complete
