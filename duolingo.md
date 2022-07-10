@@ -11,6 +11,9 @@ disadvantage: have to be connected to the internet (non free version claims to a
 people don't leave 
 ads are your time (you are the product)
 
+## noticed
+Note with some languages there are no audio lessons, and the more becomes profile and news on the bottom
+
 ## balsamiq thoughts
 it's meant to be quick and dirty, to test drive design ideas, not be perfect.  on purpose
 
