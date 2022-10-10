@@ -66,3 +66,21 @@ shop assistant
 ## what I like
 tells you how many words and phrases are in a lesson, and the estimated time to complete
 
+## what I don't like
+handsfree is attempting to simulate a human interraction.  there is far more english text on the screen than the 9 phrases you are learning from the lesson.  not much immersion or learning here
+
+## time it takes
+regular lesson (swipe, drag, etc)
+start time: 8:43:46
+screens: 20
+end time: 8:46:58
+total time: ~ 3:12
+review time (doesn't seem optional):
+start time: 8:47:03
+end time: 8:47:42
+total time: 40 seconds
+
+handsfree lesson
+start: 8:48
+end: 8:53:01
+total time: ~5 min
