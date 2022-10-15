@@ -1,10 +1,21 @@
-french,english,category
-la mère,the mother,hello
-le père,the father,
-le frère,the brother,
-la sœur,the sister,
-salut,hello,
-C’est ma mère,this is my mother,
-C’est mon père,this is my father,
-C’est ma sœur,this is my sister,
-C’est mon frère,this is my brother,
+french,english,lesson,number
+la mère,the mother,hello,1
+le père,the father,hello,2
+le frère,the brother,hello,3
+la sœur,the sister,hello,4
+salut,hello,hello,5
+C’est ma mère,this is my mother,hello,6
+C’est mon père,this is my father,hello,7
+C’est ma sœur,this is my sister,hello,8
+C’est mon frère,this is my brother,hello,9
+un matin,a morning,,
+un jour,a day,,
+un après-midi,an afternoon,,
+une nuit,a night,,
+bonjour,good morning,,
+bonne après-midi,good afternoon,,
+bonne nuit,good night,,
+au revoir,goodbye,,
+comment ça va?,how are you?,,
+très bien,very well,,
+merci,thank you,,
