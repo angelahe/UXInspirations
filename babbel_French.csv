@@ -1,42 +1,46 @@
 french,english,lesson,number
-les chaussures,the shoes,hello,1
-le pull,the sweater,hello,2
-le costume,the suit,,3
-les vêtements,the clothes,,4
-court,short,,5
-courte,short,,6
-long,long,,7
-longue,long,,8
-élégant,"elegant, stylish",,9
-élégante,"elegant, stylish",,
-original,original,,
-originale,original,,
-je dois trouver une robe pour le mariage de Colette,I have to find a dress for Colette’s wedding,,
-mets ta robe verte,try your green dress,,
-elle n’est pas assez élégante,it’s not stylish enough,,
-ha. et ta robe noire ?,ha. and your black dress ?,,
-elle est trop courte ! Je vais mourir de froid !,"it’s too short, I’ll die of cold",,
-hum...et la bleue à paillettes ?,hm...and the blue one with sequins ?,,
-non. Elle est un poil trop longue.,"No, it’s a bit too long.",,
-je vois. Et la jaune ?,I see. And the yellow ?,,
-"oh non, Marcel. Elle n’est pas assez originale, pas assez glamour ! Tu ne trouves pas ?","Oh no, Marcel. It’s not original enough, not glamorous enough !  Don’t you think ?",,
-"oh tu sais, des goûts et des couleurs","Oh you know, taste and colors…",,
-des goûts et des couleurs on ne discute pas,"of tastes and of colors one speaks not, there’s no accounting for taste",,
-j’ai le moral dans les chaussettes,I’m down in the dumps,,
-ça te va comme un gant,it fits you like a glove,,
-chapeau,hat’s off,,
-la robe est trop courte,the dress is too short,,
-ce pull est assez chaud,this sweater is warm enough,,
-"ma sœur a trop de robes, mais pas assez de chaussures",my sister has too many dresses but not enough shoes,,
-j’ai assez de robes,I have enough dresses,,
-tu as trop de vêtements,you have too many clothes,,
-Est-ce que ce costume est assez élégant ?,is this suit stylish enough ?,,
-la jupe blanche est trop petite,the white skirt is too small,,
-tu as déjà trop de chaussures,you already have too many shoes,,
-la robe est trop grande,the dress is too big,,
-cette jupe n’est pas assez longue.,this skirt isn’t long enough.,,
-tu as assez de pulls d’hiver,you have enough winter sweaters,,
-un pull original,an original sweater,,
-des chaussures élégantes,stylish shoes,,
-une jupe courte,a short skirt,,
-une robe longue,a long dress,,
+les chaussures,the shoes,2,1
+le pull,the sweater,2,2
+le costume,the suit,2,3
+les vêtements,the clothes,2,4
+court,short,2,5
+courte,short,2,6
+long,long,2,7
+longue,long,2,8
+élégant,"elegant, stylish",2,9
+élégante,"elegant, stylish",2,
+original,original,2,
+originale,original,2,
+je dois trouver une robe pour le mariage de Colette,I have to find a dress for Colette’s wedding,2,
+mets ta robe verte,try your green dress,2,
+elle n’est pas assez élégante,it’s not stylish enough,2,
+ha. et ta robe noire ?,ha. and your black dress ?,2,
+elle est trop courte ! Je vais mourir de froid !,"it’s too short, I’ll die of cold",2,
+hum...et la bleue à paillettes ?,hm...and the blue one with sequins ?,2,
+non. Elle est un poil trop longue.,"No, it’s a bit too long.",2,
+je vois. Et la jaune ?,I see. And the yellow ?,2,
+"oh non, Marcel. Elle n’est pas assez originale, pas assez glamour ! Tu ne trouves pas ?","Oh no, Marcel. It’s not original enough, not glamorous enough !  Don’t you think ?",2,
+"oh tu sais, des goûts et des couleurs","Oh you know, taste and colors…",2,
+des goûts et des couleurs on ne discute pas,"of tastes and of colors one speaks not, there’s no accounting for taste",2,
+j’ai le moral dans les chaussettes,I’m down in the dumps,2,
+ça te va comme un gant,it fits you like a glove,2,
+chapeau,hat’s off,2,
+la robe est trop courte,the dress is too short,2,
+ce pull est assez chaud,this sweater is warm enough,2,
+"ma sœur a trop de robes, mais pas assez de chaussures",my sister has too many dresses but not enough shoes,2,
+j’ai assez de robes,I have enough dresses,2,
+tu as trop de vêtements,you have too many clothes,2,
+Est-ce que ce costume est assez élégant ?,is this suit stylish enough ?,2,
+la jupe blanche est trop petite,the white skirt is too small,2,
+tu as déjà trop de chaussures,you already have too many shoes,2,
+la robe est trop grande,the dress is too big,2,
+cette jupe n’est pas assez longue.,this skirt isn’t long enough.,2,
+tu as assez de pulls d’hiver,you have enough winter sweaters,2,
+un pull original,an original sweater,2,
+des chaussures élégantes,stylish shoes,2,
+une jupe courte,a short skirt,2,
+une robe longue,a long dress,2,
+Quelle couleur vous voulez ?,what color would you like ?,,
+vous avez ce modèle ?,do you have this model ?,,
+vous faites quelle taille ?,what size are you ?,,
+j’adore le style,I love the style,,
